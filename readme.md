@@ -8,3 +8,9 @@
 
 - for training MSA
 - skill set is them i used in compnay
+
+## 3. Slack bot
+
+- Implement slack bot for me
+- I don't have to have implement sms or mail server
+- All communication is possible through slack bot
