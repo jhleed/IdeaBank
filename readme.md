@@ -1,6 +1,5 @@
 # Idea Bank
 
-> 사이드 프로젝트를 위한 아이디어 모음
+> Idea Collection for side project or .. something fun 
 
-1. 미세먼지 알리미
-2. 
+1. Alarm for Fine dust
